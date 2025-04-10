@@ -7,23 +7,13 @@ ___This Tool is Free___</br>
 
  ### Modules Required 
 ````bash
-pkg update
-pkg upgrade
-pkg install git
-pkg install python
-pip install mechanize
-pip install fake_useragent
+apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && pkg install python && pip install mechanize && pip install fake_useragent && pip install requests
 ````
 
 
  ### Run Tool
 ````bash
-cd
-clear
-rm -rf SafeUM
-git clone https://github.com/techgod143/SafeUM
-cd SafeUM
-python Create.py
+cd && clear && rm -rf SafeUM && git clone https://github.com/techgod143/SafeUM && cd SafeUM && python Create.py
 ````
 
 
