@@ -20,7 +20,7 @@ cd && clear && rm -rf SafeUM && git clone https://github.com/techgod143/SafeUM &
 
 <h3 align="left">Click below here for contact information:</h3>
 
-[![](https://img.shields.io/badge/Youtube-red?logo=Github&logoColor=black&labelColor=white)](https://www.youtube.com/@techgod143)
+[![](https://img.shields.io/badge/Youtube-red?logo=Github&logoColor=black&labelColor=white)](https://www.youtube.com/@warxzoffc)
 
 
-[![](https://img.shields.io/badge/Whatsapp-Channel-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)
+[![](https://img.shields.io/badge/Whatsapp-Channel-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://whatsapp.com/channel/0029Vb6CZ7YEVccIyefUEy0Y)
